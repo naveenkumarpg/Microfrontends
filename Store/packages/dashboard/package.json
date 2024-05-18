@@ -2,8 +2,7 @@
   "name": "dashboard",
   "version": "1.0.0",
   "scripts": {
-    "start": "webpack serve --config config/webpack.dev.js",
-    "build": "webpack --config config/webpack.prod.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "chart.js": "3.7.1",
@@ -21,7 +20,7 @@
     "css-loader": "^5.0.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^4.5.0",
-    "node-sass": "^9.0.0",
+    "node-sass": "^8.0.0",
     "sass-loader": "^13.0.0",
     "style-loader": "^2.0.0",
     "vue-loader": "^16.0.0-beta.9",

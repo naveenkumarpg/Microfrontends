@@ -1,2 +1,0 @@
-# Microfrontends
-Micro frontends examples
